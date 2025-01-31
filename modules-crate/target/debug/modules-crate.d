@@ -1,0 +1,1 @@
+D:\Freetime\Rust-Programming\modules-crate\target\debug\modules-crate.exe: D:\Freetime\Rust-Programming\modules-crate\src\lib.rs D:\Freetime\Rust-Programming\modules-crate\src\main.rs D:\Freetime\Rust-Programming\modules-crate\src\potions\health.rs D:\Freetime\Rust-Programming\modules-crate\src\potions\mod.rs D:\Freetime\Rust-Programming\modules-crate\src\weapons.rs
